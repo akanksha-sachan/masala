@@ -1,2 +1,2 @@
 # masala
-MISAR-Seq analysis using PGMs
+Genomic hubs analysis using PGMs
