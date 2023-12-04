@@ -1,2 +1,2 @@
 # masala
-Genomic hubs analysis using PGMs
+Genomic hub-mediated prediction of cellular response to TF perturbations using geometric deep learning
